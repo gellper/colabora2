@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293866065064",
+    "firebase_url": "https://colabora-c351b.firebaseio.com",
+    "project_id": "colabora-c351b",
+    "storage_bucket": "colabora-c351b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293866065064:android:5f5416d4b74e13c2a5069d",
+        "android_client_info": {
+          "package_name": "com.vippinn.colabora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293866065064-nlmou0f7h5tc7bd15onu2mn63vo40cap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vippinn.colabora",
+            "certificate_hash": "568a7e3b18a599d4381f71eedee074f1da47dc57"
+          }
+        },
+        {
+          "client_id": "293866065064-at3mkgv3n6gadh0nsqvqea1cpjarvbl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtRaMPt2MxIyhk2Omof-kXwZraAzxI-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293866065064-at3mkgv3n6gadh0nsqvqea1cpjarvbl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
